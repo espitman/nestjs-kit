@@ -1,0 +1,14 @@
+{
+  "port": 3000,
+  "swagger": {
+    "title": "Golha",
+    "version": "1.0.0"
+  },
+  "database": {
+    "user": "root",
+    "password": "rootpassword",
+    "database": "golha",
+    "host": "37.152.181.202",
+    "port": 27017
+  }
+}
